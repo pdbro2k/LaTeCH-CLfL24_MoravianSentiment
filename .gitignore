@@ -1,5 +1,6 @@
 data/fine-tuning/moravian_deu.csv
-models/*
 lib/*
+models/*
+scripts/classification/outputmap.txt
 **/.ipynb_checkpoints
 **/__pycache__

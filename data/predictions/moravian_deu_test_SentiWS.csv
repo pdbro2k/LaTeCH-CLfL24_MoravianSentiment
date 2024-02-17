@@ -12,9 +12,9 @@ source,text,polarity
 22,"Er antwortete: Er solle sie von Ihm herzlich grüßen,",0.00044444444444444447
 39,"Nach dem Hl: Abendmahl war ich nicht so verlangend, weil ich dachte, ich wäre zu schlecht zum Genuß deßelben, u. beym dran dencken, ward mir sehr angst u. bange; u. ich hatte manchen Kummer deswegen.",-0.019931428571428572
 27,"Ich hörte darauf besagten Pfarrer, namens {NAME}, Anno 1741, den 3. April, am Ostermontag, über die Worte aus dem Evangelio “Brannte nicht unser Herz in uns, da er mit uns redete auf dem Wege …” – und uns der Schrift öffnete, von dem Verdienst des Heilands meinem Herzen so zusagend predigte, daß dasselbe in tausend Tränen zerfloß.",-0.0009157894736842104
-8,"Sein Vater, der gerne gesehen hätte, doßer einen Pfarr-Dienst angenommen hätte, als er eine andere Determination bei ihm wahr nahm, wurde darüber sehr unzufrieden, ging aber das Jahr drauf aus der Zeit.",0.0
+8,"Sein Vater, der gerne gesehen hätte, doßer einen Pfarr-Dienst angenommen hätte, als er eine andere Determination bei ihm wahr nahm, wurde darüber sehr unzufrieden, ging aber das Jahr drauf aus der Zeit.",0.000125
 6,"Den 27ten Febr. glaubte man, daß sein Heimgang nahe sey, er empfing dazu den Segen seines Chores u. der Gem.",0.011335000000000001
-21,"weil er aber nur böse Gerüchte von ihnen gehört, so hütete er sich vor ihnen so lang er konnte.",0.0
+21,"weil er aber nur böse Gerüchte von ihnen gehört, so hütete er sich vor ihnen so lang er konnte.",-0.02201578947368421
 7,anno 1748. wurde ich nach Gnadenfrey geschickt woselbst ich die Knopfmacherey im ledigen Bruder Hause 23 Jahre als Meister besorgte.,0.0002
 26,Noch mehr wurde mir dieses aber aus seiner nachherigen Führung klar.,0.00036363636363636367
 2,"Ihren lieben Mann hatte sie bald so viel krank, als gesund und hat in aufs treuste gepflegt.",0.036535294117647055
@@ -101,7 +101,7 @@ source,text,polarity
 14,"Ich bin geboren zu Rhaden im Waldeckischen Anno 1702 den 12ten Mart, allwo mein Vater {NAME} aus der Schweiz gebürtig, sich nieder gelaßen hatte, und wurde in der Lutherischen Religion meiner Mutter getauft, obgleich mein Vater Reformirter Religion war.",0.0
 33,"sie geriet in eine Melankolie,",0.0
 26,"Diese starke Versuchung fand Eingang bei mir,",-0.0489
-28,"Die ersten 3oder 4 Tage gaben sie mir nichts zu essen u. nichts zu trinken, als Schweinefleisch, welches in meinem Lande verboten ist zu essen.",0.0
+28,"Die ersten 3oder 4 Tage gaben sie mir nichts zu essen u. nichts zu trinken, als Schweinefleisch, welches in meinem Lande verboten ist zu essen.",-0.014628
 26,"Wie mir hiebei zu Mute war, kann ich nicht beschreiben, es war auch unter allen Anwesenden eine große Bewegung.",0.019442105263157896
 4,"Bruder {NAME}ian kam denn den 6/17 December und erzehlte uns, daß diese Indianerin bald aus der Hütte gehen werde, und bäte auf unserm Hutberg begraben zu werden.",0.0
 28,"1762 den 21. Jan. wurde er hier mit der nunmehrigen Witwe, {NAME}, zur h. Ehe verbunden welche der l. Heiland mit 3. Kindergen segnete, wovon sich nur ein Söhnlein {NAME} eine kurze Zeit über der Hütte sehnte.",-2.1621621621621607e-05
@@ -159,10 +159,10 @@ source,text,polarity
 20,denn das trieb mich Ernstlich die Enge so das ich dag und nacht Seuffze aus dem zu Stande erlöst zu werden.,0.00019047619047619048
 35,"wir zogen darauf nach Gnadenthal, und nach einigen Jahren nach Nazareth zum wohnen.",0.0
 19,Ich war los und dankte dem Heiland auf meinem Angesicht und gab mich Ihm hin zum gantzen lohn seiner Schmerzen.,0.00955
-9,"Als er aber durch die daselbst genossene Pflege und Gebrauch von Arzneyen wieder besser wurde , so wachte sein Dienstund Zeugen trieb wieder auf, und ob ihm gleich angeboten wurde, in Bethlehem zu bleiben und auszuruhen, so erwehlete er doch lieber nach Makuntsche zurück zu kehren und seine Arbeit daselbst zu continuiren.",0.002251923076923077
+9,"Als er aber durch die daselbst genossene Pflege und Gebrauch von Arzneyen wieder besser wurde , so wachte sein Dienstund Zeugen trieb wieder auf, und ob ihm gleich angeboten wurde, in Bethlehem zu bleiben und auszuruhen, so erwehlete er doch lieber nach Makuntsche zurück zu kehren und seine Arbeit daselbst zu continuiren.",0.009398076923076924
 4,"Seiten Höhlgen, Seiten Höhlgen, Seiten Höhlgen nimm sie ein p etc etc",0.0
 26,"endlich wurde nach reiflicher Überlegung resolvirt, daß Bruder {NAME} nebst den Brüdern {NAME}, {NAME}, und {NAME} mit noch 4 Indianern dahin gehen sollten, und Bruder {NAME} und ich sollten zurückbleiben.",0.00013333333333333334
-38,"Ao. 1747 gieng es wieder nach dem Herrnhaag, wo mein lieber /// Mann sehr krank war.",0.00706875
+38,"Ao. 1747 gieng es wieder nach dem Herrnhaag, wo mein lieber /// Mann sehr krank war.",0.0067687500000000005
 8,"Hier wohnte er die ersten Jahre meistens in Philad., bauete sich auch nahe an der Stadt ein eigenes Haus, u. lebte vor sich in der Stille bis ao 45 oder 46 seine Frau aus der Zeit ging, u. weil ihn sein Sohn auch bald darauf verließ, so wurde dadurch sein Plan verschnitten,",0.0043596153846153845
 9,"ich krigte den Herren Jesum und seine Wunden lieb, kam in einen kindlichen Umgang mit Ihm, und fühlte ein Verlangen nach Kindern Gottes, fand aber keine, zu denen ich ein Vertrauen fassen konte.",0.0003515151515151515
 11,"Den 2ten Februar wurde ich zum Heiligen Abendmahl confirmirt, die Loosung hieß: Der Leib dem Herrn und der Herr dem Leibe. Daß Sein ewge Gottes Gewalt, in uns das kranck Fleisch erhalt, und den 2ten Mart hatte ich die Gnade, das erstemal mit der Gemeine an Seinem Leichnam und Blut zu participiren, dabey mir so wohl war, daß ich singen konnte: Ehre dem Seitenmaal, für meine Wahl, unds heilge Abendmahl.",0.0010457142857142857
@@ -171,7 +171,7 @@ source,text,polarity
 24,"er fand sich aber gleich wieder, wurde weich, kroch zu Jesu Füßen als ein Würmlein u. weinte um Vergebung; lernte auch bey der ge-legenheit sich beßer kennen, das H. Geistes Arbeit u. Absicht an sm. herzen verstehen u. kam vom Vertrauen auf sich selbst immer mehr ab;",0.011195744680851064
 26,"Bruder {NAME} und ich führten uns zusammen ein Häuschen 12 Fuß im Viereck mit Kamin und Schornstein auf, wo wir recht vergnügt beisammen wohnten, doch nur auf kurze Zeit;",0.006310344827586207
 32,"Wir, die noch zurück, Wollen gläubig darauf hoffen, Daß dereinst für uns auch offen Jesu Arm u. Schooß.",0.0
-27,"Ich kam auf den Gedanken, es würde besser gehen, wenn ich heiraten könnte, trat auch im Jahr 1737 mit der ledigen {NAME} in die Ehe, welches wohl nicht nach dem Willen meiner Freunde, auch anfänglich auch nicht ganz nach meinem Willen war,",0.00028571428571428574
+27,"Ich kam auf den Gedanken, es würde besser gehen, wenn ich heiraten könnte, trat auch im Jahr 1737 mit der ledigen {NAME} in die Ehe, welches wohl nicht nach dem Willen meiner Freunde, auch anfänglich auch nicht ganz nach meinem Willen war,",0.009133333333333334
 34,"anno 1742 ging mein l. Vater selig zum Heiland, da ich dann auf meiner Tante wiederholtes Bitten ganz zu ihr zog,",0.0
 34,"ich kämpfte wieder die Sünde und probirte allerhand, aber bey den allen fühlte ich keinen Trost.",-0.02166875
 23,"Ich gieng in der Angst zu Bruder {NAME} und sagte es ihm und er hieß mich noch bleiben,",-0.028555555555555556
@@ -210,7 +210,7 @@ source,text,polarity
 13,Ich bin geboren Anno 1741 den 21ten Merz in Northhampton in England.,0.0
 26,In dem vorerwähnten Hause wohnten wir vom Ende Dezember 1731 bis Anfangs May 1732 und wurden von den guten Leuten wie Kinder gq pflegt und gewartet;,0.015203846153846153
 26,{NAME} und ich gingen zu Fuß;,0.0
-8,"Nicht lange hernach meldete ihm der Jünger, daßer bald nach Berthelsdorf reisen, u. daß nicht weit daran ein neuer Ort angebauet wurde, wo sich gute Seelen hin versammleten, u. offerirte ihn die Reparatur der Orgel in Berthelsdorf, u. daßer sammt seiner Frau mit ihm dahin reisen könnte.",0.007991489361702128
+8,"Nicht lange hernach meldete ihm der Jünger, daßer bald nach Berthelsdorf reisen, u. daß nicht weit daran ein neuer Ort angebauet wurde, wo sich gute Seelen hin versammleten, u. offerirte ihn die Reparatur der Orgel in Berthelsdorf, u. daßer sammt seiner Frau mit ihm dahin reisen könnte.",0.007889361702127659
 38,"Ao 1744 kam ich zu Geschwister {NAME}s, die mich als ihr eigenes Kind hielten, und mit nach Holland nahmen.",0.0
 22,"Der Bruder fragte Ihn weiter, ob Er denn nicht gerne bei uns bleiben wolle?",0.0
 26,Er erlebte auch 10 Enkel und 1 Urenkel.,0.0
@@ -240,7 +240,7 @@ source,text,polarity
 9,Mein lieber Heiland ist mir täglich und stündlich nahe und stärkt und erquickt mich durch sein Blut und Wunden,0.0002210526315789464
 15,"weil sie wegen ihres Vaters nicht sicher in Hhuth war, so konnte sie da nicht in die Gemeine aufgenommen werden und sie wurde über Berlin, wo sie denselben Winter blieb, nach Pilgerruh geschickt, wo sie im Früh Jahr 1740 ankam,",0.0093325
 1,"der Umgang mit dem Marter Mann war ihr das liebste, und wenn sie von den Schwestern besucht wurde, be zeigte Sie immer ganz besonders ihre Freude, daß sie nun balde den sehen würde, an den Sie gläubte, und der ihre Seele liebte,",0.012835714285714287
-39,"Lezten Winter nahmen ihre Kräfte mercklich ab, u. sie litte viel an Brustbeschwerden, doch trug sie alles mit Geduld, weil es ihr die schöne Hoffnung gab, balde bey ihrem besten Freunde zu seyn.",0.002057575757575758
+39,"Lezten Winter nahmen ihre Kräfte mercklich ab, u. sie litte viel an Brustbeschwerden, doch trug sie alles mit Geduld, weil es ihr die schöne Hoffnung gab, balde bey ihrem besten Freunde zu seyn.",0.013318181818181818
 23,"die Brüder, {NAME} der Goldschmidt, {NAME} und {NAME} besuchten mich oft in dem Hause.",0.0
 34,"es wurden allerley Mittel angewendet, allein die Kranckheit konte nicht gehoben werden.",0.018491666666666667
 38,"In Zeist wurden wir zur Diaconie eingesegnet und giengen nach England, wo wir bey unsrem lieben {NAME} und {NAME} waren.",0.005655
@@ -301,7 +301,7 @@ source,text,polarity
 14,"Weil aber mein Vater in seinem 80ten Jahre sich wieder verheirathete, so verließ ich Zürch 1737 im Herbst, ging nach Tübingen, und von da um Ostern 1738 nach Hamburg, wo ich ein Jahr blieb.",0.0
 8,"Er blieb also zu Hause, befahl aber, nichts in Bethlm. Daran zu sagen: es würde nicht viel zu bedeuten haben.",0.0002
 1,"1761 den 12. Januar früh weinte sie,",-0.023585714285714286
-32,"Ich kam in einen zärtlichen Umgang mit dem l. Hld.. Abends wenn ich mich zu Bette legte war mir das ein Lieblings-Plätzgen, wo ich mit dem besten Kinder Freunde so ganz ungestört ausreden konnte,",0.00034117647058823526
+32,"Ich kam in einen zärtlichen Umgang mit dem l. Hld.. Abends wenn ich mich zu Bette legte war mir das ein Lieblings-Plätzgen, wo ich mit dem besten Kinder Freunde so ganz ungestört ausreden konnte,",0.011270588235294117
 19,Ich wurde im ledigen Bruder Chor als Meister in der Schusterey und Armen Pfleger gebraucht bis ich 1771 den 28ten October mit der ledigen Schwester {NAME} zur Heiligen Ehe verbunden wurde,0.00012903225806451613
 3,Im November desselben Jahres erhielt er einen Ruf als Arbeiter nach Hebron;,0.0003333333333333333
 36,"nachher kam ich zu den kleinen Knäbgen in die Nurserie, und zog 1755 im May mit ihnen nach Nazareth, und war bey ihnen, bis verheyrathete Geschwister die Nurserie übernahmen.",-0.009362068965517242
@@ -316,7 +316,7 @@ source,text,polarity
 3,"da besann ich mich nicht lange, sondern sagte gleich alles gerade, wie es war, und weil ich um Gnade und Absolution verlegen war, ging ich dem Bruder nicht eher zur Stube heraus, bis mir alles vergeben war; welches unter dem Vers geschahe; ""O du theurer werther Bräutigam gib ihm Absolution p",0.00015686274509803922
 9,"In eben dem Jahr zog ich mit noch 19 Genossen von Mühlhausen zur Gemeine nach Marienborn, von da ich im folgenden Jahre nach Herrnhaag als Becker und Saaldiener kam.",0.0
 34,"Sie hatte ein sehr munteres Gemüth, konte herzlich liebhaben, und wurde auch wieder von jedermann geliebt, sonderlich hatte sie eine aparte Liebe zu den Kindern.",0.0041
-12,"Allemal, wenn in der Stube geräuchert wurde, wo Er schlief und krank lag, fing Er an zu singen: Wir sind ja arme Kindelein, die in sich nichts als Sünde seyn, die aber Jesu Wunden-Blum durchräuchert hat zum Heiligthum.",-0.011963157894736842
+12,"Allemal, wenn in der Stube geräuchert wurde, wo Er schlief und krank lag, fing Er an zu singen: Wir sind ja arme Kindelein, die in sich nichts als Sünde seyn, die aber Jesu Wunden-Blum durchräuchert hat zum Heiligthum.",-0.012089473684210527
 36,Ich bin geboren 1714 d. 8. Aug. zu Ober-Jettingen im Würtenberger Land.,0.0
 14,"Am lezten Palm-Sonntag kam er aus der ersten Versammlung vom Saal so schwach nach Hause, daß er sich legen muste.",-0.04603
 32,"da ging ich gerne in die Stille vor mich, um mit dem l. Hld. Zu reden, u. krigte gar ofte bey solchen Unterredungen mit Ihm, den seligsten Gnaden Anblick von Ihm;",0.00012903225806451613
@@ -341,7 +341,7 @@ source,text,polarity
 33,"es machte sich auch daß die Wagen welche Mehl unter bedeckung vieler Soltaten nach Pizburg brachten, mich und mein Kind bis Lenkester mit nahmen",0.0
 33,"daß war auch wieder ein großer Schmerz für mich,",0.04051111111111111
 26,"So bald unsre Brüder wieder zurüchkamen, bauten wir eine Kirche, weil wir glaubten, hier bleiben zu können.",0.0
-13,"Unser nächstes Chorfest am 4ten May sowol als die vorhergehenden Tage, waren für mich besonders ausgezeichnet und gesegnet, da ich alle meine eigne Gerechtigkeit zu den Füßen des Heilands hinwarf und von seinem Tod und Blut einen solchen Eindruck bekam als ich nie vorher gehabt hatte,",0.017406521739130435
+13,"Unser nächstes Chorfest am 4ten May sowol als die vorhergehenden Tage, waren für mich besonders ausgezeichnet und gesegnet, da ich alle meine eigne Gerechtigkeit zu den Füßen des Heilands hinwarf und von seinem Tod und Blut einen solchen Eindruck bekam als ich nie vorher gehabt hatte,",0.017493478260869565
 32,"Wie mir dabey zu Muthe war, besonders da ich auf meinem Angesichte lag u. Seinen Leichman genoß, kan ich nicht beschreiben;",0.025671428571428574
 34,froh und heiter blieb dein Blick auch bey Schmerz und Leiden Und wie schätztest du dein Glück bald zum HErrn zuscheiden,0.03312380952380952
 37,"Hier bleiben sie bis in den April 1773., da sie abermal mit der Indianer- Gemeine aufbrachen, u. an den Fluß Muskingum zogen, wo Schönbrunn angebaut wurde;",0.0
@@ -402,7 +402,7 @@ source,text,polarity
 3,"Der Vers: ""Erschein mir in dem Bilde, wie Du für meine Noth am Kreutze Dich so milde geblutet hast zu Tod"", war mir sehr eindrücklich und wichtig.",0.012233333333333332
 26,"Da der Krieg immer heftiger wurde, so wurde fur gut gefunden, darauf anzutragen, die Missionarien hier zu vermindern, und zu unserem Schmerz traf es uns, von hier abzureisen.",-0.012553571428571428
 34,"Nachdem ich 5 Jahr bey den Kindern gedient hatte, so trat ich ao 1764 mit dem led. Bruder {NAME} in die Ehe.",0.0
-5,"Es war aber der Periodus der Wunden- Litaney und der Wundenlieder: wer es zu der Zeit mit erfahren, wird am besten wißen, wie gewaltig die Gnade war.",0.0002962962962962963
+5,"Es war aber der Periodus der Wunden- Litaney und der Wundenlieder: wer es zu der Zeit mit erfahren, wird am besten wißen, wie gewaltig die Gnade war.",0.01405925925925926
 23,"Das machte mich sehr confus,",0.0
 14,"""Die Ursach, warum ich ersuche, unter den Brüdern ein Ruhepläzgen für meine zurückgelaßene Hütte zu bekommen, ist, weil mich von meiner ersten Erweckung in meiner Jugend, an das große Unterscheidungs- Kenn-Zeichen derselben, unsers lieben Heilands verdienstliches Leiden und Tod unter allen Schwierigkeiten stets so vest an sie gebunden hat, daß ich mich bis auf diesen Tag als das unwürdigste Mit-Glied zu der Brüder-Gemeine bekenne.""",-0.005729687499999999
 3,Nun fing der Heilige Geist eine neue Schule mit mir an;,0.00036363636363636367
@@ -440,4 +440,4 @@ source,text,polarity
 38,"Ich sahe sie oft auf ihrem Angesicht liegen und beten, welches mir allemal zu Herzen gieng, und dencken machte, wenn ich doch auch so wäre wie sie!///",0.0
 13,"Ich bat den Heiland mein Herz mit seinem Blute zu besprengen, weil ich gerne wie gewaschen vor seinem Thron erscheinen wollte, versprach Ihm auch, im Fall ich wieder gesund werden sollte, Ihm mein ganzes Herze hinzugeben.",0.004316666666666667
 34,nie hört’ man dich klagen;,0.0
-26,ich wußte darauf nichts besseres zu tun als stille zu sein und ihm mit Liebe zu begegnen.,0.005794117647058824
+26,ich wußte darauf nichts besseres zu tun als stille zu sein und ihm mit Liebe zu begegnen.,0.027652941176470585
