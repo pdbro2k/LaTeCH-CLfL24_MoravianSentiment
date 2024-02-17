@@ -1,4 +1,4 @@
-data/gold-standard/moravian_deu.csv
+data/fine-tuning/moravian_deu.csv
 models/*
 lib/*
 **/.ipynb_checkpoints
