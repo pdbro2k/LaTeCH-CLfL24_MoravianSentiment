@@ -1,0 +1,5 @@
+data/gold-standard/moravian_deu.csv
+models/*
+lib/*
+**/.ipynb_checkpoints
+**/__pycache__
